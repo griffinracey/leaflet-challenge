@@ -15,4 +15,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson
 * A legend was added for the color scale
 * I also published to github pages for easier viewing - Link below
 
-griffinracey.github.io/leaflet-challenge/
+griffinracey.github.io/leaflet-challenge/ 
