@@ -13,4 +13,4 @@ https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson
 * The size of our marker indicates the magnitude. Larger marker = higher magnitude
 * If you click on a marker, you will see the approximate location, the depth, and the magnitude of the earthquake.
 * A legend was added for the color scale
-* I also published to github pages for easier viewing - [Link](griffinracey.github.io/leaflet-challenge/)
+* I also published to github pages for easier viewing - Link is in Repo About section.
